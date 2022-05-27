@@ -1,0 +1,36 @@
+/*IMPORTS FOR ABSTRACTS*/
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+/*IMPORTS FOR BASE*/
+@import "base/animations";
+@import "base/base";
+@import "base/typography";
+@import "base/utilities";
+
+/*IMPORTS FOR COMPONENTS*/
+@import "components/bg-video";
+@import "components/button";
+@import "components/card";
+@import "components/composition";
+@import "components/feature-box";
+@import "components/form";
+@import "components/popup";
+@import "components/story";
+
+/*IMPORTS FOR LAYOUTS*/
+@import "layout/footer";
+@import "layout/grid";
+@import "layout/header";
+@import "layout/navigation";
+
+
+
+
+/*IMPORTS FOR PAGES*/
+@import "pages/home";
+
+/*IMPORTS FOR THEMES*/
+
+/*IMPORTS FOR VENDORS*/
